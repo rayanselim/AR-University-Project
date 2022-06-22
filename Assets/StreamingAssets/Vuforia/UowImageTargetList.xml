@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Mans_Search_for_Meaning" size="30.000000 46.338799" />
+    <ImageTarget name="The_Sense_of_Style" size="30.000000 45.180721" />
+    <ImageTarget name="Tools_of_Titans" size="30.000000 46.015579" />
+    <ImageTarget name="On_Writing_Well" size="30.000000 45.572369" />
+    <ImageTarget name="4_Hour_Workweek" size="30.000000 49.773170" />
+    <ImageTarget name="Algorithms_book" size="30.000000 42.458824" />
+    <ImageTarget name="Spiderman_comic" size="30.000000 46.351933" />
+    <ImageTarget name="Vr_Book" size="20.000000 23.947615" />
+    <ImageTarget name="Cracking_the_coding_interview" size="30.000000 42.869999" />
+  </Tracking>
+</QCARConfig>
